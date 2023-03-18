@@ -1,2 +1,2 @@
 # Great-places
-## * Great places to travel *
+## ** Great places to travel 
