@@ -1,8 +1,8 @@
 # Great-places
 ## Great *places* to travel 
-(ΠΑΡΙΣΙ)	
-* ΝΑΠΟΛΙ
+	
 * ΡΩΜΗ
+
   [ΟΔΗΓΟΣ ΡΩΜΗΣ](https://www.tripadvisor.com.gr/Tourism-g187791-Rome_Lazio-Vacations.html)
  
  Όλοι οι δρόμοι οδηγούν στη Ρώμη, όπως λέει το ρητό. Ή ίσως θα έπρεπε να λέει «όλα τα ενδιαφέροντα». 
@@ -11,6 +11,8 @@
  Οι λάτρεις της ιστορίας μπορούν να εξερευνήσουν αμέτρητες αρχαίες τοποθεσίες, από το Πάνθεον μέχρι το [Κολοσσαίο](https://www.tripadvisor.com.gr/Attraction_Review-g187791-d192285-Reviews-Colosseum-Rome_Lazio.html) και τη Φοντάνα ντι Τρέβι. 
 
 * ΒΕΝΕΤΙΑ
+
+* ΝΑΠΟΛΙ
 * 
 [parisi](https://en.wikipedia.org/wiki/Paris)
 
